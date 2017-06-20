@@ -1,6 +1,6 @@
 # App US
 
-## In progress...
+## Cancel...
 
 ![](https://github.com/jalmx89/app_us/blob/master/wireframe/assets/splash.PNG)
 
